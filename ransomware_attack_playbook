@@ -1,12 +1,14 @@
-1.Preparation and Training:
-Ensure all critical systems are regularly backed up and that backups are stored offline. Train staff on ransomware detection and safe practices for email and browsing[2].
+1.Preparation and Prevention:
+Conduct regular training sessions for staff on recognizing and preventing ransomware attacks. Ensure that all critical systems are backed up frequently and that backups are stored securely offline[2].
 2.Identification:
-Detect the ransomware as soon as possible through monitoring tools and alerts. This includes identifying the type of ransomware and the systems that are affected[4].
+Implement advanced monitoring tools to detect unusual activity and identify potential ransomware attacks early. Ensure that all system logs are reviewed regularly for signs of intrusion[4].
 3.Containment:
-Immediately isolate affected systems to prevent the spread of the ransomware. Disconnect from the internet, and segment the networks if necessary[5].
-4.Eradication and Recovery:
-Remove the ransomware from all infected systems following a verified clean-up procedure. Use trusted tools to clean infected systems and restore from backups after ensuring no traces of the ransomware remain[5].
-5.Notification and Communication:
-Notify internal stakeholders and, if required, external stakeholders such as regulatory bodies. Communicate with law enforcement and follow legal advice regarding any potential negotiations with attackers[1].
-6.Post-Incident Review:
-After the incident, conduct a thorough review to determine the cause of the breach, the effectiveness of the response, and update the incident response plan based on lessons learned. This step is essential for improving future security posture and response strategies[3].
+Isolate affected systems immediately to prevent the spread of ransomware. Disconnect infected systems from the network and disable wireless functionalities[5].
+4.Eradication:
+Remove the ransomware from all infected systems using trusted and updated anti-malware tools. Ensure that all malware traces are removed before reconnecting systems to the network[5].
+5.Recovery:
+Restore affected systems from clean backups after confirming the removal of ransomware. Test restored systems to ensure they are fully functional and monitor them for any signs of issues[5].
+6.Post-Incident Analysis and Reporting:
+Conduct a thorough investigation to determine the source of the attack and assess the impact. Update incident response plans and security measures based on the findings. Report the incident to relevant authorities as required by regulatory standards[1].
+7.Continuous Improvement:
+Review and update security policies and response strategies regularly. Use lessons learned from the incident to enhance resilience against future attacks[3].
