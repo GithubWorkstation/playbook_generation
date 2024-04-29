@@ -1,14 +1,12 @@
-1.Identification and Initial Assessment:
-Monitor and identify suspected phishing emails or links using automated tools. Employees should be trained to report suspicious emails promptly.
-Initial analysis to confirm if it's a phishing attack should be conducted by IT security teams[2].
-2.Containment:
-Temporarily block the suspected sources (email addresses, URLs) of the phishing attack at the network level to prevent further spread.
-Isolate affected systems to minimize the risk of sensitive data breaches[3].
-3.Eradication:
-Remove phishing emails from all affected inboxes and ensure that any malware delivered via the phishing attack is also removed using appropriate tools[3].
-4.Recovery:
-Restore systems and data from clean backups if necessary. Monitor the affected systems for signs of abnormal activity to ensure no remnants of the attack remain.
-Gradually reintegrate the cleaned systems into the network[1].
-5.Post-Incident Review and Policy Update:
-Conduct a thorough review of the incident to determine the attack vector and any organizational vulnerabilities that were exploited.
-Update security policies and response strategies based on lessons learned to strengthen defenses against future attacks[4].
+1.Preparation:
+Educate employees regularly on the recognition of phishing attempts and the importance of security best practices. Establish a clear protocol for reporting suspected phishing attempts[6].
+2.Identification:
+Encourage employees to report suspicious emails or communications. Use email filtering tools to detect and flag potential phishing emails based on known patterns and indicators[5].
+3.Containment:
+Upon identification, isolate the affected systems to prevent the spread of the attack. Disable compromised accounts and temporarily block any malicious IP addresses involved in the attack[3].
+4.Eradication:
+Remove phishing emails from affected inboxes and conduct a thorough scan of any impacted systems to remove malicious payloads or software. Reset passwords and security settings where necessary[3].
+5.Recovery:
+Restore data from backups if necessary. Ensure all systems are clean before reconnecting them to the network and restoring normal operations[1].
+6.Post-Incident Analysis:
+Review the incident to identify how the attack succeeded and update policies and protocols to strengthen defenses against future attacks. Provide additional training to employees if needed[4].
